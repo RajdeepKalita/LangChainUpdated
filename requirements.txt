@@ -1,0 +1,14 @@
+# Core LangChain packages
+langchain
+langchain-core
+langchain_community
+langchain-groq
+
+# Model providers (uncomment based on what you use)
+langchain-openai
+langchain-google-genai
+langchain-anthropic
+
+# Environment & utilities
+python-dotenv
+pydantic

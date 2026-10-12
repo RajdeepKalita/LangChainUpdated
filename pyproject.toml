@@ -1,0 +1,13 @@
+[project]
+name = "langchain-updated"
+version = "0.1.0"
+description = "LangChain project setup"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain",
+    "langchain-core",
+    "langchain-community",
+    "python-dotenv",
+    "pydantic",
+]
